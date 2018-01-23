@@ -6,7 +6,7 @@
 	  "descr": "Firmware for Xampion sensors",
 	  "notes": "After update, all collected movements will be lost",
       "version": "2.3",
-      "releasedate": "1516521254",
+      "releasedate": 1516521254,
       "url": "https://github.com/ProgdaOy/Rockda-Firmware/blob/master/FW/Production/rockdaHW2_app_23.zip",	  
       "md5": "4001BCCDF2C7645CA074849A52097F68",
       "products": [ "XAMPION" ]
@@ -16,7 +16,7 @@
 	  "descr": "Experimental firmware for Xampion sensors",
 	  "notes": "Use Xampion Scanner Android app for reading advertising data",
       "version": "3.0",
-      "releasedate": "1516546454",
+      "releasedate": 1516546454,
       "url": "https://github.com/ProgdaOy/Rockda-Firmware/blob/master/FW/Experimental/rockdaHW2_app_30.zip",	  
       "md5": "CA4E6E227E241AC3099A1DA75E3F1EC1",
       "products": [ "XAMPION" ]
