@@ -5,10 +5,10 @@
       "name": "Xampion",
 	  "descr": "Firmware for Xampion sensors",
 	  "notes": "After update, all collected movements will be lost",
-      "version": "2.3",
+      "version": "2.4",
       "releasedate": 1516521254,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_23.zip",	  
-      "md5": "4001BCCDF2C7645CA074849A52097F68",
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_24.zip",	  
+      "md5": "277110FE4DCF87CB60F9D1E917300154",
       "products": [ "XAMPION" ]
     },
 	{
