@@ -1,5 +1,9 @@
 # Rockda FW Version History
 
+## VER 2.4 (1.2.2018)
+* Modified Step Length filter on Mops
+* Saving configuration before entering DFU
+
 ## VER 2.3 (21.1.2018)
 * Changed Wake-On-motion sensitivity default from 3 --> 2
 
