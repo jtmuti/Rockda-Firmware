@@ -12,6 +12,16 @@
       "products": [ "XAMPION" ]
     },
 	{
+      "name": "Xampion",
+	  "descr": "Bootloader for Xampion sensors",
+	  "notes": "Memory fixes",
+      "version": "3",
+      "releasedate": 1517471644,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Bootloader/rockda_bootloader_3.zip",	  
+      "md5": "058F30F0C6EED2C80F062577D9E9F20C",
+      "products": [ "XAMPION" ]
+    },
+	{
       "name": "Xampion new advertising",
 	  "descr": "Experimental firmware for Xampion sensors",
 	  "notes": "Use Xampion Scanner Android app for reading advertising data",
