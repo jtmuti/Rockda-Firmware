@@ -12,7 +12,7 @@
       "products": [ "XAMPION" ]
     },
 	{
-      "name": "Xampion",
+      "name": "Xampion Bootloader",
 	  "descr": "Bootloader for Xampion sensors",
 	  "notes": "Memory fixes",
       "version": "3",
