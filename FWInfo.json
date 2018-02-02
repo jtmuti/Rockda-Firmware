@@ -6,21 +6,11 @@
 	  "descr": "Firmware for Xampion sensors",
 	  "notes": "After update, all collected movements will be lost",
       "version": "2.4",
-      "releasedate": 1516521254,
+      "releasedate": 1517559329,
       "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_24.zip",	  
-      "md5": "277110FE4DCF87CB60F9D1E917300154",
+      "md5": "B4D7877BF4C4D15A06B397E3B2E12306",
       "products": [ "XAMPION" ]
-    },
-	{
-      "name": "Xampion Bootloader",
-	  "descr": "Bootloader for Xampion sensors",
-	  "notes": "Memory fixes",
-      "version": "3",
-      "releasedate": 1517471644,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Bootloader/rockda_bootloader_3.zip",	  
-      "md5": "058F30F0C6EED2C80F062577D9E9F20C",
-      "products": [ "XAMPION" ]
-    },
+    },	
 	{
       "name": "Xampion new advertising",
 	  "descr": "Experimental firmware for Xampion sensors",
