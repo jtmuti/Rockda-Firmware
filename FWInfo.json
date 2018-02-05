@@ -12,13 +12,23 @@
       "products": [ "XAMPION" ]
     },	
 	{
-      "name": "Xampion new advertising",
+      "name": "Xampion Test App",
 	  "descr": "Experimental firmware for Xampion sensors",
 	  "notes": "Use Xampion Scanner Android app for reading advertising data",
-      "version": "3.0",
+      "version": "3.1",
       "releasedate": 1516546454,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_30.zip",	  
-      "md5": "CA4E6E227E241AC3099A1DA75E3F1EC1",
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_31.zip",	  
+      "md5": "B9D91DCFF6062B8F06508258DE3137D9",
+      "products": [ "XAMPION" ]
+    },
+	{
+      "name": "Xampion Test bootloader",
+	  "descr": "Experimental firmware for Xampion sensors",
+	  "notes": "Use Xampion Scanner Android app for reading advertising data",
+      "version": "4",
+      "releasedate": 1516546454,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockda_bootloader_4.zip",
+      "md5": "2819AD8D48A840C6970583F512088171",
       "products": [ "XAMPION" ]
     }
   ]
