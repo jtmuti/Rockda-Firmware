@@ -22,6 +22,16 @@
       "products": [ "XAMPION" ]
     },
 	{
+      "name": "Xampion Test App",
+	  "descr": "Experimental firmware for Xampion sensors",
+	  "notes": "Added 'haltuunotto' params",
+      "version": "3.2",
+      "releasedate": 1521024540,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_32.zip",	  
+      "md5": "372999A44F134049CEF6C4018C019576",
+      "products": [ "XAMPION" ]
+    },
+	{
       "name": "Xampion Test bootloader",
 	  "descr": "Experimental firmware for Xampion sensors",
 	  "notes": "Use Xampion Scanner Android app for reading advertising data",
