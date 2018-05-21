@@ -1,28 +1,40 @@
 {
   "fwinfo": 
-  [
-    {
+  [    
+	{
       "name": "Xampion",
-	    "type":"application",
+	  "type":"application",
 	  "descr": "Firmware for Xampion sensors",
 	  "notes": "",
-      "version": "3.3",
-	    "versioncode": "33",
-      "releasedate": 1523275576,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_33.zip",	  
-      "md5": "5913FCDB22E861EBFF1876AA61D9ACFD",
+      "version": "3.4",
+	  "versioncode": "34",
+      "releasedate": 1523441746,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_34.zip",  
+      "md5": "61DEFD09133C0512150647CDB432992B",
       "products": [ "XAMPION" ]
     },
 	{
       "name": "Xampion",
-	    "type":"application",
+	  "type":"application",
 	  "descr": "Firmware for Xampion sensors",
 	  "notes": "",
-      "version": "3.4",
-	    "versioncode": "34",
-      "releasedate": 1523441746,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_34.zip",	  
-      "md5": "61DEFD09133C0512150647CDB432992B",
+      "version": "3.5",
+	  "versioncode": "35",
+      "releasedate": 1526920779,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_35.zip",
+      "md5": "E622466575AD77473EFA7EE11D2A3A7A",
+      "products": [ "XAMPION" ]
+    },
+	{
+      "name": "Xampion",
+	  "type":"bootloader",
+	  "descr": "Bootloader for Xampion sensors",
+	  "notes": "",
+      "version": "4",
+	  "versioncode": "4",
+      "releasedate": 1526920779,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Bootloader/rockda_bootloader_4.zip",
+      "md5": "B53972E4D16173304DCC879A1F32A95E",
       "products": [ "XAMPION" ]
     }
   ]

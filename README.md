@@ -1,3 +1,14 @@
-# Rockda-Firmware
-Latest sensor firmwares and documentation for updating Firmware to sensor using NordicSemi tools.
-The firmware updating instructions are located at [Doc page] (https://github.com/ProgdaOy/Rockda-Firmware/tree/master/Doc)
+# Rockda Firmware Version History
+
+## Application VER 3.5 (21.5.2018)
+- Improved error reporting
+- FW version and error flags in advertising data.
+
+## Application VER 3.4 (21.4.2018)
+* Advertising mem field show 1% if at least 100 bytes are collected in to flash.
+
+## ApplicationVER 3.3 (11.4.2018)
+* BLE disconnected if no data exchange within 15 sec
+
+## Bootloader VER 4 (21.5.2018)
+- Advertising as name "DfuPGD_<1-255>"
