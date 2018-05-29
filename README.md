@@ -1,5 +1,9 @@
 # Rockda Firmware Version History
 
+## Application VER 3.6 (28.5.2018)
+- Added battery charging information for advertising data. Batt: 101=charging 102=charge complete
+- FW version and error flags in advertising data.
+
 ## Application VER 3.5 (21.5.2018)
 - Improved error reporting
 - FW version and error flags in advertising data.
