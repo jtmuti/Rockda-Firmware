@@ -12,19 +12,7 @@
       "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW2_app_34.zip",  
       "md5": "61DEFD09133C0512150647CDB432992B",
       "products": [ "XAMPION" ]
-    },
-	{
-      "name": "Xampion",
-	  "type":"application",
-	  "descr": "Firmware for Xampion sensors",
-	  "notes": "",
-      "version": "3.5",
-	  "versioncode": "35",
-      "releasedate": 1526920779,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_35.zip",
-      "md5": "E622466575AD77473EFA7EE11D2A3A7A",
-      "products": [ "XAMPION" ]
-    },
+    },	
 	{
       "name": "Xampion",
 	  "type":"application",
@@ -35,6 +23,18 @@
       "releasedate": 1527572296,
       "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_36.zip",
       "md5": "111650D0B56A4806F02D41830638AFD5",
+      "products": [ "XAMPION" ]
+    },
+	{
+      "name": "Xampion",
+	  "type":"application",
+	  "descr": "Firmware for Xampion sensors",
+	  "notes": "",
+      "version": "3.7",
+	  "versioncode": "37",
+      "releasedate": 1528187614,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_37.zip",
+      "md5": "442CD2D787D0E8679C765A1648D07C63",
       "products": [ "XAMPION" ]
     },
 	{

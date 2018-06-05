@@ -1,5 +1,10 @@
 # Rockda Firmware Version History
 
+## Application VER 3.7 (3.6.2018)
+- Changed battery charging information for advertising data. Batt+1=charging Batt+2=charge complete
+- UTC Time set feature via serial line (for production purposes)
+- Main XTAL continuous operation while in BLE connection.
+
 ## Application VER 3.6 (28.5.2018)
 - Added battery charging information for advertising data. Batt: 101=charging 102=charge complete
 - FW version and error flags in advertising data.
