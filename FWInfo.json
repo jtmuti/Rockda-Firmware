@@ -42,6 +42,19 @@
     },
 	{
       "name": "Xampion",
+	  "type":"application",
+	  "descr": "Firmware for Xampion sensors",
+	  "notes": "",
+      "version": "3.8",
+	  "versioncode": "38",
+      "releasedate": 1528533280,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_38.zip",
+      "md5": "2A2D7A44976907BFD001C5DDC521368C",
+	  "deployment":"experimental",
+      "products": [ "XAMPION" ]
+    },
+	{
+      "name": "Xampion",
 	  "type":"bootloader",
 	  "descr": "Bootloader for Xampion sensors",
 	  "notes": "",
