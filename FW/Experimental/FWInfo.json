@@ -1,0 +1,18 @@
+{
+  "fwinfo": 
+  [    
+	{
+      "name": "Xampion",
+	  "type":"application",
+	  "descr": "Firmware for Xampion sensors",
+	  "notes": "",
+      "version": "4.6",
+	  "versioncode": "46",
+      "releasedate": 1551203234,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Experimental/rockdaHW2_app_46.zip",
+      "md5": "B136FECD108D1653255BD533F0202021",
+	  "deployment":"beta_test",
+      "products": [ "XAMPION" ]
+    }
+  ]
+}
