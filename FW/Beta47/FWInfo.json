@@ -19,10 +19,10 @@
 	  "type":"application",
 	  "descr": "Firmware for Xampion sensors HW3",
 	  "notes": "",
-      "version": "5.2",
-	  "versioncode": "52",
+      "version": "5.3",
+	  "versioncode": "53",
       "releasedate": 1587020934,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Beta47/rockdaHW3_app_52.zip",
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Beta47/rockdaHW3_app_53.zip",
       "md5": "B136FECD108D1653255BD533F0202021",
 	  "deployment":"beta_test",
       "products": [ "XAMPION" ]
