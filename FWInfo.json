@@ -14,59 +14,7 @@
 	  "deployment":"production",
       "products": [ "XAMPION" ]
     },
-	{
-      "name": "Xampion",
-	  "type":"application",
-	  "descr": "Firmware for Xampion sensors",
-	  "notes": "",
-      "version": "4.2",
-	  "versioncode": "42",
-      "releasedate": 1546849118,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production2/rockdaHW2_app_42.zip",  
-      "md5": "B136FECD108D1653255BD533F0202021",
-	  "deployment":"production_hw2",
-      "products": [ "XAMPION" ]
-    },
-	{
-      "name": "Xampion",
-	  "type":"application",
-	  "descr": "Firmware for Xampion sensors",
-	  "notes": "",
-      "version": "4.6",
-	  "versioncode": "46",
-      "releasedate": 1546849118,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production2/rockdaHW2_app_46.zip",  
-      "md5": "B136FECD108D1653255BD533F0202021",
-	  "deployment":"production_hw2",
-      "products": [ "XAMPION" ]
-    },
-	{
-      "name": "Xampion",
-	  "type":"application",
-	  "descr": "Firmware for Xampion sensors",
-	  "notes": "",
-      "version": "5.0",
-	  "versioncode": "50",
-      "releasedate": 1546849118,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production2/rockdaHW3_app_application_500.zip",  
-      "md5": "B136FECD108D1653255BD533F0202021",
-	  "deployment":"production_hw3",
-      "products": [ "XAMPION" ]
-    },
-	{
-      "name": "Xampion",
-	  "type":"application",
-	  "descr": "Firmware for Xampion sensors",
-	  "notes": "",
-      "version": "5.3",
-	  "versioncode": "53",
-      "releasedate": 1546849118,
-      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production/rockdaHW3_app_53.zip",  
-      "md5": "B136FECD108D1653255BD533F0202021",
-	  "deployment":"production_hw3",
-      "products": [ "XAMPION" ]
-    },
-	{
+		{
       "name": "Xampion",
 	  "type":"bootloader",
 	  "descr": "Bootloader for Xampion sensors",
