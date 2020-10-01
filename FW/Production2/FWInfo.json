@@ -91,6 +91,19 @@
       "md5": "B136FECD108D1653255BD533F0202021",
 	  "deployment":"production_hw3",
       "products": [ "XAMPION" ]
+    },
+	{
+      "name": "Xampion",
+	  "type":"application",
+	  "descr": "Firmware for Xampion sensors",
+	  "notes": "",
+      "version": "5.9",
+	  "versioncode": "59",
+      "releasedate": 1546849118,
+      "url": "https://raw.githubusercontent.com/ProgdaOy/Rockda-Firmware/master/FW/Production2/rockdaHW3_app_59.zip",
+      "md5": "B136FECD108D1653255BD533F0202021",
+	  "deployment":"production_hw3",
+      "products": [ "XAMPION" ]
     }
   ]
 }
